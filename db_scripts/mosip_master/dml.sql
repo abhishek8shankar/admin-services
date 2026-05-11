@@ -1,4 +1,4 @@
-\c mosip_master 
+\c :mosipdbname
 
 -------------- Level 1 data load scripts ------------------------
 

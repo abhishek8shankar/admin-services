@@ -1,4 +1,4 @@
-CREATE ROLE hotlistuser WITH 
+CREATE ROLE :dbuname WITH
 	INHERIT
 	LOGIN
 	PASSWORD :dbuserpwd;
